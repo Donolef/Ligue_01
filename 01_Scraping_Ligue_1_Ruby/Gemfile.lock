@@ -1,0 +1,30 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    csv (3.2.3)
+    date (3.2.2)
+    nokogiri (1.13.6-x64-mingw32)
+      racc (~> 1.4)
+    open-uri (0.2.0)
+      stringio
+      time
+      uri
+    racc (1.6.0)
+    stringio (3.0.2)
+    time (0.2.0)
+      date
+    uri (0.11.0)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  csv
+  nokogiri
+  open-uri
+
+RUBY VERSION
+   ruby 2.7.5p203
+
+BUNDLED WITH
+   2.3.11

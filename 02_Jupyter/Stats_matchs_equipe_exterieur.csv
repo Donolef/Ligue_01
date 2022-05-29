@@ -1,0 +1,381 @@
+MATCH,shots_on_goal - EQUIPE EXT,shots_off - EQUIPE EXT,total_shots - EQUIPE EXT,blocked_shots - EQUIPE EXT,goalkeeper_saves - EQUIPE DOM,POSSESSION - EQUIPE EXT,CARTONS JAUNES - EQUIPE EXT,CARTONS ROUGES - EQUIPE EXT,fouls - EQUIPE EXT,pass - EQUIPE EXT
+Bordeaux vs Clermont Foot,10,4,19,5,8,56,0,0,9,86
+Lyon vs Brest,8,4,13,1,6,31,1,0,12,76
+Metz vs Lille,6,7,17,4,4,62,2,0,10,81
+Monaco vs Nantes,1,3,5,1,0,25,0,0,14,61
+Montpellier vs Marseille,7,8,21,6,4,59,1,0,5,88
+Nice vs Stade de Reims,0,2,5,3,0,39,1,0,8,76
+Rennes vs Lens,6,4,11,1,5,40,2,0,14,84
+St Etienne vs Lorient,3,7,12,2,2,39,3,0,14,75
+Strasbourg vs Angers,2,5,9,2,0,43,3,0,18,78
+Troyes vs Paris SG,3,6,12,3,0,57,4,0,15,93
+Angers vs Lyon,3,3,8,2,3,57,4,1,17,85
+Brest vs Rennes,3,3,7,1,1,60,3,0,16,86
+Clermont Foot vs Troyes,1,4,6,1,1,36,3,1,11,85
+Lens vs St Etienne,7,4,12,1,4,43,5,0,16,72
+Lille vs Nice,7,1,11,3,3,38,1,0,13,77
+Lorient vs Monaco,3,4,10,3,3,73,2,0,16,83
+Marseille vs Bordeaux,2,5,8,1,0,32,2,0,11,83
+Nantes vs Metz,5,3,10,2,5,65,0,0,11,81
+Paris SG vs Strasbourg,2,4,8,2,0,35,4,1,18,85
+Stade de Reims vs Montpellier,5,4,15,6,2,43,1,0,12,77
+Bordeaux vs Angers,3,3,6,0,2,47,0,0,5,86
+Brest vs Paris SG,8,4,16,4,4,74,2,0,7,92
+Lyon vs Clermont Foot,5,7,17,5,3,45,2,0,6,83
+Metz vs Stade de Reims,3,6,12,3,2,42,2,0,14,72
+Monaco vs Lens,2,2,4,0,0,29,1,1,13,72
+Montpellier vs Lorient,4,1,5,0,4,43,6,2,13,81
+Nice vs Marseille,3,3,9,3,3,64,2,0,7,89
+Rennes vs Nantes,1,2,4,1,1,38,2,0,13,75
+St Etienne vs Lille,6,1,8,1,5,52,3,0,10,77
+Strasbourg vs Troyes,6,2,10,2,5,40,1,0,17,74
+Angers vs Rennes,2,3,7,2,2,47,2,1,10,89
+Clermont Foot vs Metz,4,6,12,2,3,40,2,0,15,74
+Lens vs Lorient,7,5,15,3,5,46,4,0,10,78
+Lille vs Montpellier,3,1,6,2,2,55,7,1,19,75
+Marseille vs St Etienne,7,4,11,0,6,36,3,0,18,85
+Nantes vs Lyon,5,5,12,2,4,64,2,1,11,83
+Nice vs Bordeaux,4,5,13,4,4,56,2,0,11,86
+Stade de Reims vs Paris SG,1,1,3,1,0,61,0,0,3,87
+Strasbourg vs Brest,5,5,11,1,4,51,1,0,10,81
+Troyes vs Monaco,4,3,7,0,2,51,2,0,11,76
+Bordeaux vs Lens,nc,nc,nc,nc,nc,nc,nc,nc,nc,nc
+Brest vs Angers,2,5,8,1,1,52,2,0,9,85
+Lorient vs Lille,3,4,9,2,2,56,2,0,11,89
+Lyon vs Strasbourg,4,6,12,2,3,41,1,0,11,82
+Metz vs Troyes,5,4,10,1,4,38,1,0,14,76
+Monaco vs Marseille,nc,nc,nc,nc,nc,nc,nc,nc,nc,nc
+Montpellier vs St Etienne,2,9,14,3,2,57,4,0,17,80
+Nantes vs Nice,3,2,9,4,1,49,3,0,13,82
+Paris SG vs Clermont Foot,2,6,14,6,2,48,1,0,9,87
+Rennes vs Stade de Reims,3,1,7,3,1,36,2,0,11,71
+Angers vs Nantes,4,4,8,0,0,34,2,0,16,72
+Clermont Foot vs Brest,1,1,5,3,0,42,1,0,19,84
+Lens vs Lille,2,1,7,4,2,53,2,0,8,79
+Marseille vs Rennes,2,9,13,2,2,35,2,0,17,77
+Nice vs Monaco,3,1,8,4,1,51,3,0,12,82
+Paris SG vs Lyon,2,1,5,2,2,37,0,0,5,86
+Stade de Reims vs Lorient,3,1,6,2,3,57,3,0,14,85
+St Etienne vs Bordeaux,3,6,13,4,1,45,4,0,11,71
+Strasbourg vs Metz,5,5,15,5,5,55,3,0,6,84
+Troyes vs Montpellier,2,1,6,3,1,58,4,1,11,84
+Angers vs Marseille,1,2,6,3,1,59,3,0,7,89
+Lens vs Strasbourg,1,4,6,1,0,40,3,0,7,83
+Lille vs Stade de Reims,5,3,11,3,4,47,1,0,14,81
+Lorient vs Nice,1,9,13,3,2,64,4,0,16,86
+Lyon vs Troyes,7,4,12,1,5,31,3,0,9,78
+Metz vs Paris SG,5,5,15,5,2,74,2,0,12,90
+Monaco vs St Etienne,2,5,8,1,2,34,1,1,13,76
+Montpellier vs Bordeaux,7,5,15,3,4,45,2,0,8,79
+Nantes vs Brest,2,3,10,5,1,58,2,0,13,82
+Rennes vs Clermont Foot,1,2,4,1,1,44,1,0,5,82
+Bordeaux vs Rennes,8,8,18,2,7,54,4,0,20,79
+Brest vs Metz,4,1,6,1,2,34,2,0,16,64
+Clermont Foot vs Monaco,3,3,6,0,0,46,4,0,12,82
+Lyon vs Lorient,5,5,12,2,4,47,2,0,10,85
+Marseille vs Lens,5,4,13,4,1,40,1,0,14,85
+Paris SG vs Montpellier,4,3,10,3,4,46,1,0,8,86
+Stade de Reims vs Nantes,2,5,11,4,1,55,1,0,10,78
+St Etienne vs Nice,9,4,14,1,6,41,2,0,13,70
+Strasbourg vs Lille,7,6,16,3,5,43,4,0,12,77
+Troyes vs Angers,6,5,17,6,5,63,2,0,8,91
+Angers vs Metz,2,0,2,0,0,42,3,0,11,82
+Lens vs Stade de Reims,0,3,3,0,0,39,1,1,13,81
+Lille vs Marseille,3,5,10,2,3,64,3,1,13,89
+Lorient vs Clermont Foot,4,2,8,2,3,54,1,0,12,82
+Monaco vs Bordeaux,1,0,4,3,0,43,1,0,13,81
+Montpellier vs Strasbourg,3,2,6,1,2,46,0,0,14,80
+Nantes vs Troyes,4,6,15,5,4,46,2,0,10,84
+Nice vs Brest,0,1,2,1,0,26,0,0,7,69
+Rennes vs Paris SG,0,10,13,3,0,68,3,0,4,88
+St Etienne vs Lyon,5,3,15,7,4,56,3,1,10,82
+Bordeaux vs Nantes,7,6,13,0,6,40,3,0,16,69
+Brest vs Stade de Reims,2,5,13,6,1,45,4,0,13,72
+Clermont Foot vs Lille,2,4,9,3,2,57,3,0,8,82
+Lyon vs Monaco,3,2,9,4,3,38,2,0,10,79
+Marseille vs Lorient,7,7,15,1,6,36,1,0,10,79
+Metz vs Rennes,8,8,21,5,6,65,1,0,9,90
+Montpellier vs Lens,5,10,18,3,5,50,4,0,16,78
+Paris SG vs Angers,2,2,7,3,1,27,1,0,10,80
+Strasbourg vs St Etienne,2,2,4,0,1,48,2,1,10,86
+Troyes vs Nice,3,6,11,2,3,62,1,0,20,87
+Lens vs Metz,4,3,9,2,3,44,3,0,13,81
+Lille vs Brest,5,7,14,2,4,37,2,0,15,71
+Lorient vs Bordeaux,5,3,11,3,4,46,2,1,13,80
+Marseille vs Paris SG,4,3,10,3,4,51,2,1,8,89
+Monaco vs Montpellier,4,2,13,7,3,35,4,0,16,76
+Nantes vs Clermont Foot,1,3,4,0,0,54,0,1,11,85
+Nice vs Lyon,8,3,13,2,6,58,0,1,7,86
+Stade de Reims vs Troyes,4,1,7,2,2,45,2,0,13,77
+Rennes vs Strasbourg,2,5,8,1,2,36,2,0,11,78
+St Etienne vs Angers,2,1,4,1,0,36,3,0,18,71
+Angers vs Nice,5,5,14,4,3,63,2,0,9,86
+Bordeaux vs Stade de Reims,8,4,12,0,6,48,2,0,10,79
+Brest vs Monaco,2,3,5,0,2,67,4,0,17,85
+Clermont Foot vs Marseille,4,3,9,2,3,59,4,0,11,87
+Lyon vs Lens,10,4,18,4,7,45,2,0,13,84
+Metz vs St Etienne,3,7,11,1,2,63,3,0,11,83
+Montpellier vs Nantes,1,9,12,2,1,42,5,0,23,68
+Paris SG vs Lille,3,5,11,3,2,40,5,0,10,84
+Strasbourg vs Lorient,0,4,5,1,0,47,0,0,10,80
+Troyes vs Rennes,5,5,13,3,3,62,1,0,15,86
+Bordeaux vs Paris SG,5,2,9,2,2,56,1,0,10,85
+Lens vs Troyes,3,6,11,2,3,41,1,0,8,83
+Lille vs Angers,5,3,9,1,4,54,2,0,9,86
+Lorient vs Brest,5,8,16,3,3,61,1,0,8,84
+Marseille vs Metz,4,5,12,3,4,24,3,1,9,70
+Nantes vs Strasbourg,6,7,17,4,4,52,1,1,12,75
+Nice vs Montpellier,2,3,8,3,1,31,0,0,7,76
+Stade de Reims vs Monaco,3,6,12,3,3,58,2,0,13,80
+Rennes vs Lyon,4,2,6,0,3,51,2,0,12,85
+St Etienne vs Clermont Foot,4,4,9,1,1,51,1,0,10,79
+Angers vs Lorient,3,5,10,2,3,46,0,0,13,84
+Brest vs Lens,5,6,13,2,4,64,2,1,7,87
+Clermont Foot vs Nice,4,1,9,4,2,49,4,0,16,82
+Lyon vs Marseille,1,5,9,3,0,45,0,0,8,85
+Metz vs Bordeaux,5,7,19,7,2,54,2,0,11,82
+Monaco vs Lille,8,4,14,2,6,46,5,0,16,74
+Paris SG vs Nantes,6,4,12,2,5,34,2,0,12,88
+Rennes vs Montpellier,2,0,4,2,2,32,3,1,10,71
+Strasbourg vs Stade de Reims,3,6,10,1,2,33,4,0,13,67
+Troyes vs St Etienne,4,8,14,2,3,53,4,0,11,83
+Bordeaux vs Brest,4,8,14,2,2,35,1,0,11,71
+Lens vs Angers,5,5,12,2,3,51,0,0,6,83
+Lille vs Nantes,3,4,7,0,2,41,2,1,12,72
+Lorient vs Rennes,5,2,11,4,3,58,2,0,11,79
+Marseille vs Troyes,2,3,5,0,2,44,4,0,17,77
+Monaco vs Strasbourg,4,1,7,2,3,41,1,0,9,74
+Montpellier vs Lyon,3,5,11,3,2,56,4,0,15,84
+Nice vs Metz,1,2,4,1,0,30,2,0,12,74
+Stade de Reims vs Clermont Foot,0,4,4,0,0,59,2,0,13,86
+St Etienne vs Paris SG,8,5,15,2,5,71,1,0,10,92
+Angers vs Monaco,8,3,14,3,5,52,2,0,18,78
+Brest vs St Etienne,3,6,13,4,3,65,3,0,9,87
+Clermont Foot vs Lens,2,6,9,1,1,47,5,0,13,80
+Lyon vs Stade de Reims,4,2,8,2,2,37,2,0,17,74
+Metz vs Montpellier,7,3,10,0,4,54,2,0,9,84
+Nantes vs Marseille,5,6,15,4,4,71,2,0,7,93
+Paris SG vs Nice,2,1,4,1,2,30,3,0,13,75
+Rennes vs Lille,2,2,6,2,0,35,1,0,12,70
+Strasbourg vs Bordeaux,2,7,13,4,0,50,3,0,13,82
+Troyes vs Lorient,3,5,9,1,3,44,1,0,11,78
+Bordeaux vs Lyon,5,8,19,6,4,70,0,0,9,87
+Lens vs Paris SG,6,3,12,3,5,64,2,0,9,89
+Lille vs Troyes,3,1,7,3,2,55,4,0,9,77
+Lorient vs Nantes,1,2,5,2,0,46,3,0,13,80
+Marseille vs Brest,4,2,9,3,2,26,2,0,7,76
+Monaco vs Metz,0,4,6,2,0,35,2,0,13,74
+Montpellier vs Clermont Foot,3,5,10,2,3,52,3,0,15,84
+Nice vs Strasbourg,5,6,15,4,2,40,3,0,14,76
+Stade de Reims vs Angers,4,6,13,3,2,57,3,0,13,84
+St Etienne vs Rennes,10,5,18,3,6,56,0,0,7,81
+Angers vs Clermont Foot,3,7,16,6,2,36,2,0,12,76
+Brest vs Montpellier,4,4,9,1,0,57,1,0,6,86
+Lille vs Lyon,2,7,13,4,2,49,6,0,15,77
+Metz vs Lorient,6,9,18,3,5,67,2,0,8,85
+Nantes vs Lens,2,0,2,0,0,58,3,0,9,87
+Paris SG vs Monaco,3,5,13,5,3,47,4,0,15,84
+Stade de Reims vs St Etienne,0,2,4,2,0,47,2,1,16,77
+Rennes vs Nice,3,3,8,2,1,33,4,0,11,76
+Strasbourg vs Marseille,3,4,8,1,1,51,1,0,12,83
+Troyes vs Bordeaux,4,1,7,2,3,35,3,0,15,71
+Bordeaux vs Lille,3,6,13,4,0,59,3,0,7,81
+Clermont Foot vs Strasbourg,5,8,15,2,4,44,0,0,13,80
+Lorient vs Paris SG,4,10,17,3,3,77,3,1,8,91
+Lyon vs Metz,2,1,6,3,1,24,3,0,19,62
+Marseille vs Stade de Reims,2,5,7,0,1,27,4,1,6,77
+Monaco vs Rennes,6,5,16,5,5,52,1,0,9,77
+Montpellier vs Angers,6,5,13,2,5,53,1,0,13,87
+Nice vs Lens,4,3,8,1,2,45,2,0,9,87
+St Etienne vs Nantes,3,4,8,1,2,50,1,0,12,76
+Troyes vs Brest,2,4,8,2,1,34,2,0,10,71
+Angers vs St Etienne,5,2,8,1,5,47,1,0,13,77
+Bordeaux vs Marseille,6,8,18,4,5,65,1,0,7,88
+Brest vs Nice,4,3,9,2,1,37,3,1,11,78
+Clermont Foot vs Stade de Reims,2,2,7,3,2,45,3,0,24,81
+Lens vs Rennes,0,3,5,2,0,42,1,0,6,82
+Lille vs Lorient,5,7,18,6,4,45,0,0,11,85
+Lyon vs Paris SG,3,9,15,3,2,68,2,0,13,91
+Metz vs Strasbourg,7,10,19,2,5,59,1,0,6,84
+Montpellier vs Troyes,5,7,13,1,4,48,1,0,10,82
+Nantes vs Monaco,1,6,9,2,1,69,2,0,12,85
+Lorient vs Angers,0,2,5,3,0,46,1,1,9,79
+Marseille vs Lille,4,1,5,0,3,22,5,1,12,70
+Monaco vs Clermont Foot,1,1,6,4,1,47,1,0,10,77
+Nice vs Nantes,3,7,11,1,2,45,1,0,17,84
+Paris SG vs Brest,3,2,6,1,3,31,3,0,8,81
+Stade de Reims vs Metz,5,8,17,4,4,42,4,0,16,74
+Rennes vs Bordeaux,1,2,5,2,1,42,5,1,9,76
+St Etienne vs Lens,4,5,14,5,2,60,1,0,13,83
+Strasbourg vs Montpellier,5,2,9,2,4,44,2,1,9,80
+Troyes vs Lyon,8,7,19,4,7,62,1,0,12,89
+Angers vs Troyes,nc,nc,nc,nc,nc,nc,nc,nc,nc,nc
+Bordeaux vs Strasbourg,6,10,18,2,3,66,2,0,11,81
+Brest vs Lille,5,8,17,4,5,62,3,0,10,87
+Clermont Foot vs Rennes,4,4,13,5,3,53,3,0,17,75
+Lens vs Marseille,nc,nc,nc,nc,nc,nc,nc,nc,nc,nc
+Lyon vs St Etienne,nc,nc,nc,nc,nc,nc,nc,nc,nc,nc
+Metz vs Nice,6,2,8,0,4,47,1,0,6,86
+Montpellier vs Monaco,7,7,18,4,5,61,2,0,10,84
+Nantes vs Lorient,6,2,15,7,4,46,0,0,10,77
+Paris SG vs Stade de Reims,3,4,7,0,3,32,1,0,10,84
+Lille vs Paris SG,7,10,18,1,2,59,1,0,9,91
+Lorient vs Lens,0,4,8,4,0,64,3,1,11,85
+Marseille vs Angers,2,1,4,1,0,40,3,0,13,84
+Monaco vs Lyon,5,5,19,9,4,64,2,0,14,85
+Nice vs Clermont Foot,5,7,14,2,4,45,1,0,9,82
+Stade de Reims vs Bordeaux,0,3,6,3,0,51,1,1,12,84
+Rennes vs Brest,1,1,5,3,1,39,1,0,8,78
+St Etienne vs Montpellier,2,0,3,1,1,39,0,0,4,78
+Strasbourg vs Nantes,2,4,10,4,2,49,3,0,8,77
+Troyes vs Metz,0,3,7,4,0,53,2,0,14,85
+Angers vs Strasbourg,2,5,8,1,1,36,1,0,11,71
+Brest vs Troyes,2,3,5,0,1,42,1,0,11,79
+Clermont Foot vs St Etienne,3,2,6,1,1,54,1,0,10,74
+Lens vs Bordeaux,5,3,10,2,2,57,2,0,7,83
+Lyon vs Nice,1,0,1,0,1,40,1,0,9,80
+Metz vs Marseille,5,6,13,2,3,55,2,0,6,83
+Monaco vs Lorient,1,3,5,1,1,35,2,0,11,65
+Montpellier vs Lille,7,7,16,2,6,44,4,0,15,77
+Nantes vs Stade de Reims,4,2,7,1,3,39,0,1,8,77
+Paris SG vs Rennes,1,7,13,5,1,35,0,0,9,84
+Bordeaux vs Monaco,4,5,13,4,4,53,4,1,13,82
+Lens vs Lyon,2,5,10,3,1,62,2,0,10,84
+Lille vs Metz,0,5,7,2,0,36,4,0,13,72
+Lorient vs Montpellier,nc,nc,nc,nc,nc,nc,nc,nc,nc,nc
+Marseille vs Clermont Foot,3,1,4,0,1,34,2,0,9,85
+Nantes vs Paris SG,9,4,16,3,8,72,6,0,10,91
+Nice vs Angers,2,7,11,2,2,43,2,0,17,82
+Stade de Reims vs Brest,4,7,15,4,2,56,2,0,17,81
+Rennes vs Troyes,nc,nc,nc,nc,nc,nc,nc,nc,nc,nc
+St Etienne vs Strasbourg,4,4,8,0,2,49,2,0,6,77
+Angers vs Lens,2,5,8,1,1,52,3,0,15,82
+Brest vs Lorient,8,7,17,2,7,55,4,0,15,80
+Clermont Foot vs Bordeaux,3,3,10,4,2,46,2,0,13,83
+Lyon vs Lille,2,2,6,2,1,36,2,0,15,79
+Metz vs Nantes,3,5,12,4,3,51,2,0,15,83
+Monaco vs Stade de Reims,7,4,12,1,6,31,2,0,12,69
+Montpellier vs Rennes,9,2,11,0,5,53,2,0,11,80
+Paris SG vs St Etienne,6,3,13,4,5,38,1,0,13,83
+Strasbourg vs Nice,0,3,4,1,0,37,2,2,12,75
+Troyes vs Marseille,3,2,8,3,2,58,3,0,8,86
+Bordeaux vs Troyes,2,7,10,1,1,39,1,1,15,64
+Lens vs Brest,3,2,5,0,2,37,1,0,11,72
+Lille vs Clermont Foot,1,5,9,3,1,52,3,1,9,85
+Lorient vs Lyon,7,3,15,5,3,63,0,0,14,89
+Marseille vs Monaco,3,2,5,0,2,33,1,0,9,78
+Nantes vs Montpellier,1,3,6,2,1,55,1,0,11,80
+Nice vs Paris SG,2,2,8,4,2,57,0,0,10,93
+Stade de Reims vs Strasbourg,6,10,17,1,5,45,2,0,11,82
+Rennes vs Angers,2,2,7,3,2,43,1,0,7,82
+St Etienne vs Metz,nc,nc,nc,nc,nc,nc,nc,nc,nc,nc
+Angers vs Stade de Reims,3,4,10,3,2,37,2,1,8,77
+Brest vs Marseille,7,4,13,2,3,53,4,0,15,86
+Clermont Foot vs Lorient,6,2,9,1,4,47,2,0,14,79
+Lille vs St Etienne,3,4,11,4,3,49,1,0,12,83
+Lyon vs Rennes,7,1,9,1,3,38,3,0,12,75
+Metz vs Lens,0,8,11,3,0,51,2,0,14,80
+Montpellier vs Nice,0,6,8,2,0,43,2,1,8,77
+Paris SG vs Bordeaux,4,5,14,5,4,43,2,0,9,85
+Strasbourg vs Monaco,0,2,5,3,0,55,2,0,13,75
+Troyes vs Nantes,1,3,6,2,1,56,1,0,16,84
+Angers vs Brest,2,11,17,4,2,50,1,0,9,79
+Bordeaux vs Montpellier,2,4,7,1,0,41,0,2,7,73
+Lens vs Clermont Foot,nc,nc,nc,nc,nc,nc,nc,nc,nc,nc
+Lorient vs Strasbourg,4,6,13,3,4,50,2,0,18,83
+Marseille vs Nice,3,4,9,2,2,43,1,0,11,81
+Monaco vs Paris SG,6,6,13,1,5,61,3,0,10,87
+Nantes vs Lille,4,3,12,5,3,48,4,1,15,76
+Stade de Reims vs Lyon,2,5,10,3,2,64,3,0,13,87
+Rennes vs Metz,1,0,2,1,0,36,2,0,11,78
+St Etienne vs Troyes,4,2,8,2,3,37,2,0,9,72
+Clermont Foot vs Nantes,3,6,9,0,1,45,1,0,10,75
+Lille vs Bordeaux,0,0,2,2,0,34,4,1,15,62
+Lyon vs Angers,4,2,7,1,2,38,1,0,13,81
+Metz vs Monaco,4,6,14,4,2,57,0,0,9,86
+Montpellier vs Brest,8,3,12,1,6,40,4,0,14,73
+Nice vs Rennes,4,4,13,5,2,61,1,0,12,85
+Paris SG vs Lorient,0,0,1,1,0,29,0,0,1,83
+St Etienne vs Marseille,9,3,15,3,6,70,1,0,12,89
+Strasbourg vs Lens,2,11,13,0,2,51,1,0,10,84
+Troyes vs Stade de Reims,4,4,10,2,4,43,4,1,11,80
+Angers vs Lille,3,8,18,7,2,65,2,0,12,85
+Bordeaux vs Metz,2,3,9,4,1,42,2,0,15,72
+Brest vs Nantes,5,6,12,1,4,48,3,0,13,74
+Clermont Foot vs Paris SG,10,7,17,0,4,64,1,0,7,94
+Lens vs Nice,6,5,16,5,6,57,4,2,15,89
+Lorient vs St Etienne,4,5,13,4,2,56,5,1,18,82
+Marseille vs Montpellier,nc,nc,nc,nc,nc,nc,nc,nc,nc,nc
+Monaco vs Troyes,1,4,8,3,0,44,2,0,9,78
+Stade de Reims vs Rennes,8,5,14,1,5,60,0,0,8,81
+Strasbourg vs Lyon,3,5,12,4,2,59,0,0,13,85
+Lille vs Lens,7,3,11,1,5,44,2,0,9,84
+Lyon vs Bordeaux,5,7,17,5,4,40,0,0,13,73
+Metz vs Clermont Foot,4,14,26,8,3,55,1,0,11,80
+Montpellier vs Stade de Reims,9,3,15,3,9,40,3,0,12,79
+Nantes vs Angers,3,6,10,1,2,40,1,0,10,79
+Nice vs Lorient,1,3,6,2,0,36,1,0,12,79
+Paris SG vs Marseille,1,1,3,1,0,58,1,0,12,91
+Rennes vs Monaco,4,7,12,1,1,36,3,0,15,77
+St Etienne vs Brest,3,4,7,0,2,62,2,0,10,79
+Troyes vs Strasbourg,4,6,12,2,2,62,2,0,19,84
+Angers vs Paris SG,8,5,15,2,5,57,2,0,8,90
+Bordeaux vs St Etienne,2,5,9,2,0,54,6,0,18,76
+Brest vs Lyon,5,8,16,3,4,66,2,0,12,88
+Lens vs Montpellier,4,2,9,3,4,51,0,0,9,85
+Lorient vs Metz,5,10,20,5,4,58,2,0,17,79
+Marseille vs Nantes,3,0,3,0,1,22,3,0,13,69
+Monaco vs Nice,2,7,15,6,2,52,2,0,11,80
+Stade de Reims vs Lille,5,9,20,6,4,59,1,0,8,85
+Strasbourg vs Rennes,3,6,11,2,2,63,2,0,11,86
+Troyes vs Clermont Foot,1,2,3,0,0,50,6,1,15,80
+Clermont Foot vs Angers,5,2,9,2,3,48,6,1,21,77
+Lille vs Strasbourg,3,2,11,6,3,54,3,0,17,75
+Lyon vs Montpellier,6,2,9,1,4,46,2,0,9,86
+Metz vs Brest,3,8,16,5,2,42,0,0,17,75
+Nantes vs Bordeaux,7,4,20,9,5,44,1,0,15,76
+Nice vs Troyes,3,2,8,3,3,38,1,0,11,74
+Paris SG vs Lens,3,3,8,2,2,34,2,1,12,84
+Stade de Reims vs Marseille,3,4,14,7,2,71,1,0,7,88
+Rennes vs Lorient,2,7,12,3,2,41,0,0,10,84
+St Etienne vs Monaco,6,6,12,0,3,42,3,0,19,76
+Bordeaux vs Nice,3,9,14,2,1,56,2,0,12,80
+Brest vs Clermont Foot,7,4,16,5,7,58,2,0,16,86
+Lens vs Nantes,5,7,13,1,3,47,5,0,11,79
+Lorient vs Stade de Reims,2,4,12,6,0,48,1,0,13,83
+Marseille vs Lyon,5,6,12,1,2,37,1,0,13,79
+Monaco vs Angers,5,3,11,3,5,57,2,0,12,84
+Montpellier vs Metz,5,7,17,5,3,49,3,0,15,80
+Rennes vs St Etienne,3,2,8,3,3,27,4,0,15,68
+Strasbourg vs Paris SG,6,5,13,2,3,56,2,0,6,90
+Troyes vs Lille,1,6,10,3,1,62,4,2,13,87
+Angers vs Bordeaux,3,2,7,2,2,59,5,0,18,83
+Brest vs Strasbourg,5,5,14,4,4,54,2,0,15,81
+Clermont Foot vs Montpellier,2,5,10,3,1,50,4,0,15,77
+Lille vs Monaco,3,5,9,1,1,49,1,0,8,76
+Lorient vs Marseille,6,1,9,2,3,69,1,0,10,90
+Metz vs Lyon,5,8,17,4,3,64,2,1,8,84
+Nantes vs Rennes,5,6,17,6,4,70,1,0,9,91
+Nice vs St Etienne,6,3,12,3,4,36,3,0,14,72
+Paris SG vs Troyes,3,3,9,3,1,36,2,0,19,83
+Stade de Reims vs Lens,5,8,21,8,3,61,2,0,9,90
+Bordeaux vs Lorient,2,4,13,7,2,52,4,0,11,82
+Lyon vs Nantes,6,9,17,2,5,38,0,0,10,82
+Metz vs Angers,4,7,11,0,4,55,1,0,18,80
+Monaco vs Brest,5,4,10,1,3,43,1,0,12,80
+Montpellier vs Paris SG,9,5,15,1,5,70,4,0,7,92
+Nice vs Lille,5,3,9,1,2,41,3,0,9,73
+Rennes vs Marseille,0,5,8,3,0,60,2,0,8,85
+St Etienne vs Stade de Reims,7,7,17,3,5,45,0,0,9,78
+Strasbourg vs Clermont Foot,3,6,11,2,3,44,2,0,9,80
+Troyes vs Lens,9,4,15,2,6,52,2,0,9,89
+Angers vs Montpellier,1,9,14,4,1,48,4,0,12,83
+Brest vs Bordeaux,7,5,15,3,3,52,0,0,12,84
+Clermont Foot vs Lyon,5,6,21,10,3,55,2,0,15,87
+Lens vs Monaco,5,3,12,4,2,40,3,0,7,74
+Lille vs Rennes,3,4,13,6,1,51,2,0,14,84
+Lorient vs Troyes,3,3,8,2,2,42,2,1,10,85
+Marseille vs Strasbourg,4,5,10,1,4,39,1,0,16,77
+Nantes vs St Etienne,3,3,13,7,2,47,0,0,9,80
+Paris SG vs Metz,1,2,4,1,1,25,2,1,12,75
+Stade de Reims vs Nice,6,4,17,7,3,55,2,0,14,86
